@@ -1,0 +1,59 @@
+{
+  "name": "wallace-corporation",
+  "displayName": "Wallace Corporation",
+  "description": "Human action resounds in the heavens.",
+  "version": "0.2.3",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "devDependencies": {
+    "vsce": "^2.9.1"
+  },
+  "publisher": "hc",
+  "author": {
+    "name": "Howard C.",
+    "url": "https://github.com/h-cwc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h-cwc/wallace-corporation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/h-cwc/wallace-corporation/issues"
+  },
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "red",
+    "orange",
+    "material",
+    "material-theme",
+    "terminal",
+    "blade-runner",
+    "joe"
+  ],
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#0b0c0f",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wallace Corporation",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wallace-color-theme.json"
+      },
+      {
+        "label": "Tyrell Corporation",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tyrell-color-theme.json"
+      }
+    ]
+  }
+}

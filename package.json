@@ -2,7 +2,7 @@
   "name": "wallace-corporation",
   "displayName": "Wallace Corporation",
   "description": "Human action resounds in the heavens.",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -35,6 +35,7 @@
     "material-theme",
     "terminal",
     "blade-runner",
+    "deckard",
     "joe"
   ],
   "icon": "media/icon.png",

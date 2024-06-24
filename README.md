@@ -4,12 +4,12 @@ Blade Runner inspired colour themes for VSCode and VSCodium. The extension can b
 
 ## Wallace Corporation
 
-![Preview of Wallace Corp for HTML](https://raw.githubusercontent.com/h-cwc/wallace-corporation/main/media/wallace1.png)
-![Preview of Wallace Corp Command Palette](https://raw.githubusercontent.com/h-cwc/wallace-corporation/main/media/wallace3.png)
+[![Preview of Wallace Corp for HTML](./media/wallace1.png)](https://raw.githubusercontent.com/h-cwc/wallace-corporation/main/media/wallace1.png)
+[![Preview of Wallace Corp Command Palette](./media/wallace3.png)](https://raw.githubusercontent.com/h-cwc/wallace-corporation/main/media/wallace3.png)
 
 ## Tyrell Corporation
 
-![Preview of Tyrell Corp](https://raw.githubusercontent.com/h-cwc/wallace-corporation/main/media/tyrell1.png)
+[![Preview of Tyrell Corp](./media/tyrell1.png)](https://raw.githubusercontent.com/h-cwc/wallace-corporation/main/media/tyrell1.png)
 
 ## Rosen Associates
 Coming soon.

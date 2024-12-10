@@ -1,8 +1,12 @@
 # Change Log
 
+# [0.3.1]
+### Fixed
+- Bracket pair colorisation mismatch of 'Tyrell Corporation'.
+
 ## [0.3.0]
 ### Fixed
-- Deprecated tokens in 'Wallace Corporation'. The theme has been finalised.
+- Deprecated tokens in 'Wallace Corporation'. The overall style of the theme has been finalised.
 - Readability issues with search highlighting with 'Tyrell Corporation'. 
 
 ## [0.0.1] — [0.2.2]

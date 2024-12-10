@@ -1,6 +1,6 @@
 # Change Log
 
-# [0.3.1]
+## [0.3.1]
 ### Fixed
 - Bracket pair colorisation mismatch of 'Tyrell Corporation'.
 

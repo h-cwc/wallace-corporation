@@ -1,5 +1,11 @@
 # Change Log
 
+## [0.3.2]
+### Fixed
+- Hovered over item under file explorer not being visible in ‘Wallace Corporation’.
+- Invisible outline of focused list/tree item under file explorer in ‘Wallace Corporation’.
+- Mismatched colours for search highlighting in the minimap and editor overview ruler in ‘Wallace Corporation’.
+
 ## [0.3.1]
 ### Fixed
 - Bracket pair colorisation mismatch of 'Tyrell Corporation'.

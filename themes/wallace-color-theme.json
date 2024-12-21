@@ -91,7 +91,7 @@
     "list.inactiveSelectionForeground": "#D5D8DA",
     "list.inactiveFocusBackground": "#2E303E80",
     "list.errorForeground": "#F43E5CE6",
-    "list.warningForeground": "#E95378E6",
+    "list.warningForeground": "#FAB795",
     "notifications.background": "#14151B",
     "panelTitle.activeBorder": "#E95378",
     "panelTitle.activeForeground": "#E95378",

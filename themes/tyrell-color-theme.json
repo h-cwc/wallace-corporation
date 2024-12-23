@@ -2,6 +2,7 @@
   "name": "Tyrell Corporation",
   "type": "dark",
   "colors": {
+    "contrastActiveBorder": "#ffb000",
     "activityBar.activeBackground": "#ffb00088",
     "activityBar.activeBorder": "#ffb00088",
     "activityBar.activeFocusBorder": "#ffb00088",

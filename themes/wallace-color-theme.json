@@ -150,6 +150,8 @@
     "textLink.foreground": "#E95378",
     "titleBar.activeBackground": "#0b0c0f",
     "titleBar.inactiveBackground": "#0b0c0f",
+    "menu.selectionBackground": "#6c6f9349",
+    "menu.selectionBorder": "#6c6f9349",
     "walkThrough.embeddedEditorBackground": "#1b1c25",
     "widget.shadow": "#16161C"
   },

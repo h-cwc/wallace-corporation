@@ -2,7 +2,7 @@
   "name": "wallace-corporation",
   "displayName": "Wallace Corporation",
   "description": "Human action resounds in the heavens.",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "engines": {
     "vscode": "^1.0.0"
   },

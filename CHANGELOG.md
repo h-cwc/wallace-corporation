@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.4.0]
+### Added
+- Contrast for active borders in 'Tyrell Corporation'.
+
+### Fixed
+- List item warning colour under file explorer not being distinguishable from other git resource colours in 'Wallace Corporation'.
+
 ## [0.3.2]
 ### Fixed
 - Hovered over item under file explorer not being visible in ‘Wallace Corporation’.

@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.4.1]
+### Fixed
+- Menu item highlighting and border not being very visible in 'Wallace Corporation'.
+- Mismatched colours between git and gutter in 'Wallace Corporation'.
+
 ## [0.4.0]
 ### Added
 - Contrast for active borders in 'Tyrell Corporation'.
